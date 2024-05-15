@@ -18,5 +18,5 @@ A user-friendly currency converter app with dynamic styling, utilizing an API to
 - JavaScript
 - API integration for real-time exchange rates
 
-## Live Demo
-[Currency Converter Website](https://harshit2012.github.io/Currency_Converter_Website/)
+## License
+This repository is under[MIT License]()
