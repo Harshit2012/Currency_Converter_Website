@@ -19,4 +19,4 @@ A user-friendly currency converter app with dynamic styling, utilizing an API to
 - API integration for real-time exchange rates
 
 ## License
-This repository is under[MIT License]()
+This repository is under [MIT License](https://github.com/Harshit2012/Currency_Converter_Website#MIT-1-ov-file)
